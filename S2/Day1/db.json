@@ -1,0 +1,34 @@
+{
+    "childrens": [
+        {
+            "name": "vinod",
+            "city": "Bidar"
+        },
+        {
+            "name": "Pramod",
+            "city": "Dharwad"
+        },
+        {
+            "name": "Pradeep",
+            "city": "Bangalore"
+        },
+        {
+            "name": "pablo pandey",
+            "age": "25"
+        }
+    ],
+    "parents": [
+        {
+            "name": "Shivaraj",
+            "sub": "Father"
+        },
+        {
+            "name": "Kasturi",
+            "sub": "Mother"
+        },
+        {
+            "name": "Mangala",
+            "sub": "Mother"
+        }
+    ]
+}
